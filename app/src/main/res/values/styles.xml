@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"></style>
+
+    <style name="TitleTextStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+    <style name="OrangeButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/bg_orange_button</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="CapstoneButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/bg_red_button</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
